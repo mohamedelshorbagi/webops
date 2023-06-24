@@ -7,3 +7,7 @@ Template:   hello-elementor
 Version:    1.0
 License:    GNU General Public License v2 or later
 */
+
+.page-id-7 header.page-header {
+    display: none;
+}

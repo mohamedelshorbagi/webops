@@ -19,3 +19,5 @@ if ( ! function_exists( 'b7ectg_unregister_widget' ) ) {
         unregister_widget( 'ElementorPro\Modules\Library\WP_Widgets\Elementor_Library' );
     }
 }
+
+

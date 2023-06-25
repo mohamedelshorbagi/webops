@@ -11,3 +11,7 @@ License:    GNU General Public License v2 or later
 .page-id-7 header.page-header {
     display: none;
 }
+
+figure.gallery-item {
+    vertical-align: middle !important;
+}

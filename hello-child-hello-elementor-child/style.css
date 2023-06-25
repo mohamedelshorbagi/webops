@@ -9,9 +9,12 @@ License:    GNU General Public License v2 or later
 */
 
 .page-id-7 header.page-header {
-    display: none;
+    display: none !important;
 }
 
 figure.gallery-item {
     vertical-align: middle !important;
+}
+h2.elementor-heading-title.elementor-size-default {
+    font-style: initial;
 }
